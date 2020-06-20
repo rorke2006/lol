@@ -1,0 +1,6 @@
+echo "# lol" >> README.md 
+git init 
+git aggiungi README.md 
+git commit -m "first commit" 
+git remote aggiungi origin https://github.com/rorke2006/lol.git
+ git push -u origin master
